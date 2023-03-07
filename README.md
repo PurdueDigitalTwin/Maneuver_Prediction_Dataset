@@ -16,10 +16,10 @@ General Instructions:
 
 --- 
 
-The spreadsheet links are:
+The links are:
 
-'REXING_Lexus_anno'
-'REXING_Lexus_ignored'
+[REXING_Lexus_anno](https://docs.google.com/spreadsheets/d/12g0dBMUhm32yTdb6MrWoJemRPFTceEK4Z6uQIpUcy1w/edit?usp=sharing)
+, [REXING_Lexus_ignored](https://docs.google.com/spreadsheets/d/1YJWXQ2VK6FuBlz6XrVM6R3Roq4FHtAmtJ6EByZqRHxQ/edit?usp=sharing), [Videos](https://purdue0-my.sharepoint.com/:f:/g/personal/yunsheng_purdue_edu/EoucJS393QFIvna7avg2u5YBOJgGr98rA3aouQc4uBb3Cw?email=chloe.2018.lgccccpc%40gmail.com&e=IzVTdf)
 
 ## Label Definitions
 ### List of maneuvers
