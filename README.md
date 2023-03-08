@@ -14,7 +14,7 @@ General Instructions:
 
 **Several videos have already been labeled as examples.**
 
-Goal: 400 labeled videos by the end of March.
+Goal: 300 labeled videos by the end of March.
 
 --- 
 
